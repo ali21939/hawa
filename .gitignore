@@ -18,6 +18,8 @@ dist/
 *.sqlite3
 backups/
 _updates/
+*.xlsx
+*.xlsm
 
 # OS and Editor files
 .vscode/
