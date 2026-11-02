@@ -1,0 +1,26 @@
+# Secrets / Tokens
+.github_token
+*.token
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Build outputs
+build/
+dist/
+*.spec
+
+# Database & local backups
+*.db
+*.sqlite
+*.sqlite3
+backups/
+_updates/
+
+# OS and Editor files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
